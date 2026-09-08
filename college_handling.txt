@@ -1,0 +1,53 @@
+COLLEGE TIMINGS AND WORKING HOURS
+The college campus operates Monday through Friday between 8:30 AM and 5:00 PM.
+College bus arrival: All college buses reach the campus by 9:10 AM.
+Morning assembly: The morning student assembly commences promptly at 9:15 AM in the main quadrangle.
+Staff attendance punch: The biometric punch-in deadline for faculty and staff members is 9:30 AM.
+Standard classroom lectures commence after assembly at 9:30 AM and conclude at 4:15 PM.
+The official lunch break is scheduled daily from 12:30 PM to 1:30 PM.
+Administrative offices, fee counters, and the student affairs desk remain accessible from 9:00 AM to 4:30 PM.
+The central library and computer labs remain open until 6:00 PM on all working days.
+
+COLLEGE BUS AND TRANSPORTATION RULES
+College buses depart from various designated pickup points across the city and arrive at the college gate at 9:10 AM.
+Evening departure for all college buses is scheduled at 4:30 PM from the main bus bay.
+Students using institution transport must carry their valid Bus Pass at all times and adhere to standard transport safety guidelines.
+
+ATTENDANCE RULES AND REGULATIONS
+Every student must maintain a minimum overall attendance of 75% in each registered course to be eligible for end-semester examinations.
+Students with attendance between 65% and 74% due to verified medical emergencies or institutional duty representation may apply for condonation by submitting a medical certificate or duty leave form to the Dean of Academic Affairs.
+A condonation fee of INR 1,000 per subject applies upon approval.
+Students with attendance below 65% are strictly detained (Grade FA - Failure due to Attendance) and are disqualified from writing the final theory and practical examinations for that semester. Such students must re-register for the course in subsequent semesters.
+
+GRADING SYSTEM AND EVALUATION
+The college adopts a 10-point relative Cumulative Grade Point Average (CGPA) system.
+Grade O (Outstanding): 90% and above (10 grade points).
+Grade A+ (Excellent): 80% to 89% (9 grade points).
+Grade A (Very Good): 70% to 79% (8 grade points).
+Grade B+ (Good): 60% to 69% (7 grade points).
+Grade B (Above Average): 50% to 59% (6 grade points).
+Grade C (Pass): 40% to 49% (5 grade points).
+Grade U (Re-appear / Fail): Below 40% (0 grade points).
+Passing minimum: A student must secure a minimum of 40% in internal continuous assessments and 40% in the end-semester examination separately, with an aggregate score of at least 50% to pass the subject.
+
+CURRICULUM AND SYLLABUS DETAILS (SEMESTER 5)
+Course Code: CS501 - Database Management Systems (DBMS)
+Credits: 4
+Core Topics: Relational Data Models, SQL Queries, Normalization (1NF, 2NF, 3NF, BCNF), Transaction Management, ACID Properties, Concurrency Control, and Indexing Strategies.
+
+Course Code: CS502 - Computer Networks (CN)
+Credits: 4
+Core Topics: OSI and TCP/IP Reference Models, Transmission Media, Data Link Layer Protocols, IPv4 and IPv6 Addressing, Routing Algorithms (Dijkstra, Distance Vector), TCP/UDP Transport Protocols, and Application Layer Protocols (HTTP, DNS, FTP).
+
+Course Code: CS503 - Operating Systems (OS)
+Credits: 3
+Core Topics: Process Scheduling, Multi-threading, Process Synchronization (Semaphores, Mutex), Deadlock Detection and Avoidance, Memory Management (Paging, Segmentation, Virtual Memory), and File System Architecture.
+
+Course Code: CS504 - Internet of Things and Embedded Systems (IoT)
+Credits: 3
+Core Topics: Microcontrollers (ESP32, Arduino architecture), Sensor Interfacing, Actuator Control, Wireless Protocols (Wi-Fi, Bluetooth, Zigbee), MQTT and HTTP Communication, Cloud Data Logging, and Automation Systems.
+
+CAMPUS FACILITIES AND HOSTEL DISCIPLINE
+Hostel in-times: All hostel resident students must return to their respective hostel blocks before 7:30 PM on weekdays and 8:30 PM on weekends.
+Ragging and substance abuse are strictly prohibited under zero-tolerance state anti-ragging laws. Violations lead to immediate police reporting and expulsion.
+Identity Cards must be worn visibly around the neck at all times while inside the college gates.

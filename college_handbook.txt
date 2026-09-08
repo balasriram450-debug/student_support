@@ -1,0 +1,21 @@
+COLLEGE ACADEMIC REGULATIONS & POLICIES
+
+1. Attendance Policy:
+- Minimum required attendance to be eligible for end-semester exams is 75%.
+- Attendance between 65% and 74% can be condoned by the Dean upon submission of valid medical proof.
+- Attendance below 65% is strictly not condoned; the student must re-register and repeat the course.
+
+2. Grading System:
+- Grade O (Outstanding): 90% and above (10 Grade Points)
+- Grade A+ (Excellent): 80% to 89% (9 Grade Points)
+- Grade A (Very Good): 70% to 79% (8 Grade Points)
+- Grade B (Good): 60% to 69% (7 Grade Points)
+- Minimum passing mark is 50% (Grade C).
+
+3. Syllabus Details:
+- CS301 (Data Structures): Arrays, Linked Lists, Stacks, Queues, Binary Trees, Graph Traversal (BFS/DFS), and Hashing.
+- CS302 (Database Management Systems): ER Modeling, Relational Algebra, SQL Queries, Normalization (1NF, 2NF, 3NF, BCNF), and Transaction Processing.
+
+4. College Helpdesk & Contacts:
+- Academic Dean Office: Room 102, Administrative Block (Office Hours: 10:00 AM - 4:00 PM).
+- Examination Cell: Room 108.
